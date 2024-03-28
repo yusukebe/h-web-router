@@ -1,6 +1,13 @@
-# H - Ultra-tiny Web Router
+# H - Ultra-small Web Router
 
-H is an Ultra-tiny Web Router built with Hono's Pattern Router.
+H is an Ultra-small Web Router built with Hono's Pattern Router.
+
+## Features
+
+- Ultra Small - A "Hello World" application will be ~1KB (minified+gzipped).
+- Perfected Router - Using [Hono](https://hono.dev)'s Pattern Router. It's flexible, supports many patterns, and is well-tested.
+- Web Standards - Runs on Cloudflare Workers, Bun, Deno, and others.
+- Optimized with Cloudflare Workers - Supports Bindings and Execution Context.
 
 ## Install
 

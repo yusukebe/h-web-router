@@ -1,6 +1,6 @@
 {
   "name": "h-web-router",
-  "description": "H - Ultra-tiny Web Router",
+  "description": "H - Ultra-small Web Router",
   "version": "0.0.0",
   "type": "module",
   "types": "dist/index.d.ts",
